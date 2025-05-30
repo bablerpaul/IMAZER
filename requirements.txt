@@ -1,0 +1,9 @@
+pymediainfo==9.1.0
+# Core dependencies
+Pillow>=8.0.0
+
+# Additional system dependencies:
+# - exiftool (install manually)
+# - tkinter (usually pre-installed)
+pdfminer.six==20221105 
+ffmpeg-python==0.2.0

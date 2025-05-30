@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Output and logs
+output/
+*.log
+
+# Editor folders (optional)
+.vscode/
+
+# Samples folder (optional if you want to ignore sample files)
+Scripts
